@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "firstName": "David",
+      "lastName": "Wallace",
+      "department": "Mobile",
+      "salarySlab": "High",
+      "city": "New York",
+      "country": "US"
+    },
+    {
+      "id": 2,
+      "firstName": "Sonia",
+      "lastName": "Ross",
+      "department": "Web",
+      "salarySlab": "Low",
+      "city": "Texas",
+      "country": "US"
+    },
+    {
+      "id": 3,
+      "firstName": "Anthony",
+      "lastName": "Thomson",
+      "department": "Web",
+      "salarySlab": "High",
+      "city": "London",
+      "country": "UK"
+    },
+    {
+      "id": 4,
+      "firstName": "John",
+      "lastName": "Duo",
+      "department": "Web",
+      "salarySlab": "Low",
+      "city": "Liverpool",
+      "country": "UK"
+    }
+  ]
